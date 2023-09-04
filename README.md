@@ -18,3 +18,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - ⚡ In my free time, I do leetcode exercise for fun 🕶️.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-fajri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zulfikar-fajri-716826156/)
+
+---
+
+### :fire: My Stats :
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fajrizulfikar)
